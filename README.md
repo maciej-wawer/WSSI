@@ -1,0 +1,2 @@
+# WSSI
+Rozwiązania zadań
