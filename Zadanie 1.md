@@ -1,0 +1,9 @@
+# Zad 1
+a) rodzeństwo
+b) kuzyni
+c) Dziadkowie tego samego wnuka ale każde od innej strony rodziców
+d) Y toprzybrany rodzic a X to przybrane dziecko
+e) pół rodzeństwo
+f) szwagrami
+g) rodzeństwo w trzech czwartych
+
