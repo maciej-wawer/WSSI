@@ -31,29 +31,29 @@ botem udającym człowieka (przygotowywanym na test Turinga) a botem
 „asystentem, służącym”.
 2. Sprawdź dwa boty z obu z tych rodzajów na występowanie zachowań:
 a) opowiadanie żartów,
--ChatGPT opowiedział żart, niestety był on pozbawiony satyry i sensu
--CleverBot nie opowiedział
+- ChatGPT opowiedział żart, niestety był on pozbawiony satyry i sensu
+- CleverBot nie opowiedział
 b) przytaczanie cytatów z twoich wypowiedzi, lub znanych osób,
--ChatGPT z większością cytatów nie miał najmniejszych problemów
--CleverBot znał cytat, lecz nie umiał przytoczyć kto go powiedział, nie zapamiętuje poprzednich wiadomosci
+- ChatGPT z większością cytatów nie miał najmniejszych problemów
+- CleverBot znał cytat, lecz nie umiał przytoczyć kto go powiedział, nie zapamiętuje poprzednich wiadomosci
 c) nawiązywanie wypowiedzi do słów kluczowych,
--ChatGPT robi to bez większego problemu i raczej trafnie
--CleverBot nie ma takiej funkcjonalności
+- ChatGPT robi to bez większego problemu i raczej trafnie
+- CleverBot nie ma takiej funkcjonalności
 d) zadawanie dużej liczby pytań,
--ChatGPT przyjmuje dużą ilość pytań lecz wtedy odpowiedzi są mniej prezyzyjne niż jakby zadało się te pytania pojedyńczo
--CleverBot przyjmuje maksymalnie 1 pytanie lub twierdzenie
+- ChatGPT przyjmuje dużą ilość pytań lecz wtedy odpowiedzi są mniej prezyzyjne niż jakby zadało się te pytania pojedyńczo
+- CleverBot przyjmuje maksymalnie 1 pytanie lub twierdzenie
 e) powracanie do początku wypowiedzi, sekwencyjne powtarzanie,
--ChatGPT potrafi to zrobić jednak trzeba precyzyjnie oznaczyć moment do którego chcemy powrócić
--CleverBot nie zapamiętuje rozmowy
+- ChatGPT potrafi to zrobić jednak trzeba precyzyjnie oznaczyć moment do którego chcemy powrócić
+- CleverBot nie zapamiętuje rozmowy
 f) zadawanie pytań powstających z twoich wypowiedzi,
 g) odpowiadanie wymijająco, ogólnikowo,
--ChatGPT odpowiada wymijająco na tematy związane z polityką,historią oraz w większości tematów uznanych w społeczeństwie za polaryzujące
--CleverBot odpowiada wymijająco jeśli pytanie jest zbyt szczegółowe lub dotyczy wiedzy do której nie ma dostępu
+- ChatGPT odpowiada wymijająco na tematy związane z polityką,historią oraz w większości tematów uznanych w społeczeństwie za polaryzujące
+- CleverBot odpowiada wymijająco jeśli pytanie jest zbyt szczegółowe lub dotyczy wiedzy do której nie ma dostępu
 h) częsta zmiana tematu rozmowy,
--Dla żadnego z nich nie jest to problemem
+- Dla żadnego z nich nie jest to problemem
 i) problemy z utrzymaniem wątków.
--GPT nie ma problemu z utrzymaniem wątku jak rówinież można do niego wracać po jakimś czasie
--CleverBot prowadzi dosyć "ludzką" konwersację jendak jego możliwości nie przekraczają kilku wypowiedzi w danym temacie
+- GPT nie ma problemu z utrzymaniem wątku jak rówinież można do niego wracać po jakimś czasie
+- CleverBot prowadzi dosyć "ludzką" konwersację jendak jego możliwości nie przekraczają kilku wypowiedzi w danym temacie
 4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie przewidzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
 - konwersacja jest jałowa i szybko sie kończy bez ingerencji i korekty wiadomości.
